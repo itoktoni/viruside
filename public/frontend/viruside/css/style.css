@@ -189,7 +189,7 @@ footer {
   padding-top: 1rem; }
   .section-twitter .flex-container .flex-item h3 {
     text-align: right;
-    width: 80%; }
+    width: 100%; }
     @media (max-width: 765px) {
       .section-twitter .flex-container .flex-item h3 {
         width: unset;
